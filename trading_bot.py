@@ -1,3 +1,7 @@
+# I was too lazy to start work on the actual nn today but i coded the basic actions in as well as a test case
+# i don't think i have enough data to get a good accuracy/profit however this is just a test with open source data
+
+
 import pandas as pd
 import numpy as np
 import openpyxl as pyxl
